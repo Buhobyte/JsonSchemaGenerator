@@ -11,4 +11,4 @@ _Add Json Object to file input.json_
 ```pypthon
 py JsonSchemaGenerator.py
 ```
-_Copy JsonSchemaAdd Json Object to file input.json_
+_Copy JsonSchema from output.json. JsonSchema is automatically copied to the clipboard._
